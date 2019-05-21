@@ -1,4 +1,5 @@
 # Norminette
+[Полная версия](https://github.com/liftchampion/Norminette/blob/master/norme.en.pdf)
 # Краткие основы
 
 + В файле не более 5 функций  
